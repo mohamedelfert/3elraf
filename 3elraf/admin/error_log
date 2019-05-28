@@ -1,0 +1,16 @@
+[15-Nov-2016 12:47:06 America/Chicago] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/emtyazna/public_html/nephro-center/center/application/controllers/Patients.php on line 283
+[19-Nov-2016 06:18:43 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_tracks::getTricksForArch() in /home/emtyazna/public_html/nephro-center/center/application/controllers/PatientsTrack.php on line 98
+[13-Apr-2017 19:39:31 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_admins::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Users.php on line 24
+[13-Apr-2017 19:40:03 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_admins::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Users.php on line 24
+[14-Apr-2017 10:34:57 America/Chicago] PHP Fatal error:  Call to a member function setViewed() on a non-object in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Books.php on line 183
+[14-Apr-2017 16:17:04 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[14-Apr-2017 16:17:12 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[14-Apr-2017 16:19:45 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[14-Apr-2017 16:20:22 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[21-Jun-2017 13:40:33 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[21-Jun-2017 13:40:41 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[21-Jun-2017 15:49:38 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[21-Jun-2017 17:39:15 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[23-Jun-2017 20:51:34 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[24-Jun-2017 07:00:58 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
+[25-Jun-2017 10:15:04 America/Chicago] PHP Fatal error:  Call to undefined method Mdl_cities::getNew() in /home/emtyazna/public_html/mohamed/3elraf/admin/application/controllers/Cities.php on line 28
